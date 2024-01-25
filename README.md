@@ -2,7 +2,7 @@
 
 Link to the Challenge :
 
-Link to the Interactive dashboard :
+Link to the Interactive dashboard : https://app.powerbi.com/view?r=eyJrIjoiZWQwMzUyNWUtZTkwYy00ZTRkLWEyZDAtZDU4MjliZDQ0OWNhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 # AtliQ-Grands-Hospitality-Analysis-in-Power-BI
 
