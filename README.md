@@ -2,8 +2,8 @@
 
 Link to the Challenge : https://codebasics.io/challenge/codebasics-resume-project-challenge
 
-Link to the Interactive dashboard: https://app.powerbi.com/view?r=eyJrIjoiNGYwODViYjYtYjhlMS00NjUwLWIyMjEtZjc4MWU2ZTczMzU0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
-
+Link to the Interactive dashboard: 
+https://app.powerbi.com/view?r=eyJrIjoiNGYwODViYjYtYjhlMS00NjUwLWIyMjEtZjc4MWU2ZTczMzU0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" 
 # AtliQ-Grands-Hospitality-Analysis-in-Power-BI
 
 # Challenge 1 : Provide Insight to the Revenue Team in Hospitality Domain
