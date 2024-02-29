@@ -23,6 +23,9 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 # Mock-up Dashboard
 ![mock up dashboard_atliq grands](https://github.com/rajitaNV/AtliQ-Grands-Hospitality-Analysis-in-Power-BI/assets/121693250/ee96781d-ca65-475a-b6c0-22fc732daa12)
 
+# Dashboard
+![image](https://github.com/rajitaNV/AtliQ-Grands-Hospitality-Analysis-in-Power-BI/assets/121693250/14af2456-b9ed-4c33-bccf-56f6528b6126)
+
 # Some important insight from the dashboard
 1. Mumbai leads the revenue charts with an impressive $660 million, followed by Bangalore, Hyderabad, and Delhi in descending order of financial performance.
 2. Delhi secures the top position in both occupancy and rating metrics, outshining Hyderabad, Mumbai, and Bangalore in these crucial aspects.
