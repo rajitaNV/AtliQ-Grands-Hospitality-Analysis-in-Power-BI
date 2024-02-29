@@ -23,6 +23,9 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 # Mock-up Dashboard
 ![mock up dashboard_atliq grands](https://github.com/rajitaNV/AtliQ-Grands-Hospitality-Analysis-in-Power-BI/assets/121693250/ee96781d-ca65-475a-b6c0-22fc732daa12)
 
+# Data Model
+![image](https://github.com/rajitaNV/AtliQ-Grands-Hospitality-Analysis-in-Power-BI/assets/121693250/76746237-94c9-47a8-8773-f1417f5c5fb8)
+
 # Dashboard
 ![image](https://github.com/rajitaNV/AtliQ-Grands-Hospitality-Analysis-in-Power-BI/assets/121693250/14af2456-b9ed-4c33-bccf-56f6528b6126)
 
