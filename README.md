@@ -1,6 +1,6 @@
 # CodeBasics Resume Project Challenge 1
 
-Link to the Challenge :
+Link to the Challenge : https://codebasics.io/challenge/codebasics-resume-project-challenge
 
 Link to the Interactive dashboard: 
 
