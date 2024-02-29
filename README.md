@@ -27,8 +27,8 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 1. Mumbai leads the revenue charts with an impressive $660 million, followed by Bangalore, Hyderabad, and Delhi in descending order of financial performance.
 2. Delhi secures the top position in both occupancy and rating metrics, outshining Hyderabad, Mumbai, and Bangalore in these crucial aspects.
 3. AtliQ Exotica outperforms all seven property types, boasting a substantial $316 million in revenue, a commendable rating of 3.6, an occupancy rate of 57%, and a cancellation rate of 24.4%.
-4. AtliQ Blu claims the highest occupancy rate at an impressive 62%.
-5. AtliQ Blu attains the highest Average Rating, while AtliQ Seasons lags with the lowest Average Rating at 2.29.
+4. AtliQ Blu claims the highest occupancy rate at an impressive 61.92%.
+5. AtliQ Blu attains the highest Average Rating, while AtliQ Seasons lags with the lowest Average Rating at 2.3.
 6. The Luxury Category bringing in more revenue than Business category.
 7. The Elite room type significantly contributes to overall revenue compared to other room categories.
 8. The majority of bookings originate from the MakeYourTrip platform, dominating over other booking platforms in terms of reservation volume.
