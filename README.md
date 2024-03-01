@@ -45,6 +45,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 2.	Average Daily Rate (ADR): The average daily rate (ADR) is widely used in the hospitality industry to indicate the average revenue earned for an occupied room on a given day. The average daily rate is one of the industry's key performance indicators (KPI).
 3.	Occupancy Rate: It is the percentage of occupied rooms in your hotel at a given time.
 4.	Revenue Realisation: it is the percentage of the revenue that is actually recognized compared to what was expected.
+   
 -Creating calculated columns
 -Creating measures using the DAX language
 -Using KPI indicators to show trends.
