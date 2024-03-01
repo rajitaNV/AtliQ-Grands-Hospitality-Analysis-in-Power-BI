@@ -47,6 +47,6 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 4.	Revenue Realisation: it is the percentage of the revenue that is actually recognized compared to what was expected.
 -Creating calculated columns
 -Creating measures using the DAX language
--Using KPI indicators to show trends
+-Using KPI indicators to show trends.
 
 
